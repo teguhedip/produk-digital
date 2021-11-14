@@ -1,5 +1,6 @@
 Resolusi Produk Digital
--paham PHP
+
 -paham objek PHP
 -paham MVC
 -paham Javascript
+-menguasai css
